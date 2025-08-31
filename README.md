@@ -1,2 +1,2 @@
 # task1
-session1
+python course
