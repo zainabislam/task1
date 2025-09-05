@@ -1,0 +1,9 @@
+temprature= 28
+if temprature >=30 :
+  print("it's a hot day. Stay hydrated!")
+ elif temprature>20 and temprature<29 :
+  print("it's a warm day. Enjoy the weather!")
+ elif temprature>10 and temprature<19 :
+  print("it's a cold day. Wear a jacket!")
+ elif temprature<10 :
+  print("it's a cold day. Stay warm!")
